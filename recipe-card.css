@@ -6,7 +6,7 @@ body {
     background-color: #333333;
     margin: 0;
     padding: 0;
-    background: url("images/food-image-bg.png") no-repeat center center;
+    background: url("food-image-bg.png") no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 }
